@@ -32,7 +32,7 @@ def  Deletes():
 root = tk.Tk()
 root.config(width=250, height=260)
 # label
-label = ttk.Label(root, text='Binario - Decimal') 
+label = ttk.Label(root, text='Binarios - Decimales') 
 label.place(x=50, y=25)
 
 
